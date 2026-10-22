@@ -16,7 +16,7 @@
             header('Location:welcome.php');
         } 
         else {
-            echo "Invalid login. <a href='login.html'> Try again</a>";
+            echo "Invalid login. <a href='login.php'> Try again</a>";
         }
     ?>
 </body>
